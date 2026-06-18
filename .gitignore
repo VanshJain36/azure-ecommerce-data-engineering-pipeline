@@ -1,0 +1,8 @@
+__pycache__/
+
+*.csv
+*.parquet
+
+.vscode/
+
+.env
